@@ -9,3 +9,4 @@ The files are:
 2. images folder: this folder contains the image of the ones I used at the end of the project.
 3. models folder: folder with saved models
 4. 'Face Key Points detection with CNN and GPU.ipynb': Jupyter notebook with all the code and its explanations.
+5. detector_architectures folder: folder with the cascade codes.
